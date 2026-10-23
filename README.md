@@ -15,28 +15,6 @@ My experience spans motion planning, autonomous flight, and robot electronics. I
 
 我喜欢把算法放到真实机器人上验证：从机械臂轨迹规划、无人机自主飞行，到双足机器人的电控与整机联调。接下来，希望深入探索具身智能与 VLA。
 
-### Selected work
-
-#### 01 / Multimodal motion planning for manipulators
-
-**Independent project · Oct 2025 – Jan 2026**
-
-Low-dimensional joint trajectory parameterization with **Bernstein polynomials**, preserving start and goal configurations. Combined cost-weighted density estimation with an importance-weighted variational Bayesian Gaussian mixture model to identify trajectory modes, then locally optimized each mode. Visualized robot motion in **CoppeliaSim**.
-
-#### 02 / Autonomous flight, from simulation to hardware
-
-**Platform integration · Algorithm reproduction · Real-world experiments**
-
-Built a quadrotor platform and reproduced autonomous obstacle avoidance in simulation. Validated exploration in an unknown environment on the physical platform, with environment maps and localization trajectories as experimental outputs.
-
-#### 03 / Electronics for a dancing biped
-
-**Technical lead · Jul 2025 – May 2026**
-
-Designed, soldered, and debugged **STM32 control boards**, peripheral boards, and an audio amplifier board. Developed embedded software and serial communication with a **Raspberry Pi 5**, contributing to a robot with **17 coordinated servos** and two switchable configurations.
-
-*National undergraduate innovation project · Completed with an Excellent rating*
-
 ### Tools I work with
 
 | Area | Tools & experience |
