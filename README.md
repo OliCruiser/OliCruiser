@@ -2,6 +2,8 @@
 
 🎓 I'm a Mechatronics undergraduate at **Northwestern Polytechnical University**, School of Mechanical Engineering.
 
+🌱 I've been admitted to the research master's program in **Intelligent Science and Engineering** at NWPU through recommended admission. My prospective advisor is **Bin Zhao**.
+
 🤖 My experience spans motion planning, autonomous flight, and robot electronics. I'm interested in **embodied intelligence**, especially **Vision-Language-Action (VLA) models**, and how intelligent policies translate into reliable behavior on physical robots.
 
 ### 🏆 Highlight
@@ -20,6 +22,8 @@ Open to conversations about motion planning, embodied intelligence, and building
 ## 你好，我是张煜 👋
 
 🎓 我是**西北工业大学机电学院机械电子工程专业本科生**。
+
+🌱 已推免至**西北工业大学光电与智能研究院智能科学与工程专业**，攻读学术型硕士，导师为**赵斌老师**。
 
 🤖 我的项目经历涵盖运动规划、无人机自主飞行与机器人电控。我关注**具身智能**，尤其是**视觉–语言–动作（VLA）模型**，希望探索智能策略如何在真实机器人上实现可靠的行为。
 
