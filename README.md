@@ -4,15 +4,6 @@ I'm a Mechatronics undergraduate at **Northwestern Polytechnical University**, S
 
 My experience spans motion planning, autonomous flight, and robot electronics. I'm interested in **embodied intelligence**, especially **Vision-Language-Action (VLA) models**, and how intelligent policies translate into reliable behavior on physical robots.
 
-### Tools I work with
-
-| Area | Tools & experience |
-| :--- | :--- |
-| Programming | C · Python |
-| Planning & simulation | Trajectory optimization · CoppeliaSim · Gazebo |
-| Robot systems | STM32 · Raspberry Pi · Serial communication · Servo control |
-| Hardware | Altium Designer · LCEDA · PCB design, soldering & debugging |
-
 ### A few milestones
 
 - National champion × 2 — 2025 China Robot Competition & RoboCup China, main and special competitions; second team lead.
@@ -47,15 +38,6 @@ Open to conversations about motion planning, embodied intelligence, and building
 我的项目经历涵盖运动规划、无人机自主飞行与机器人电控。我关注**具身智能**，尤其是**视觉–语言–动作（VLA）模型**，希望探索智能策略如何在真实机器人上实现可靠的行为。
 
 我喜欢把算法放到真实机器人上验证：从机械臂轨迹规划、无人机自主飞行，到双足机器人的电控与整机联调。
-
-### 技术与工具
-
-| 方向 | 工具与经验 |
-| :--- | :--- |
-| 编程 | C · Python |
-| 规划与仿真 | 轨迹优化 · CoppeliaSim · Gazebo |
-| 机器人系统 | STM32 · 树莓派 · 串口通信 · 舵机控制 |
-| 硬件开发 | Altium Designer · 立创 EDA · 电路板设计、焊接与调试 |
 
 ### 荣誉与奖项
 
