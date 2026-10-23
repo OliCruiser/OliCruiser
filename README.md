@@ -6,7 +6,7 @@
 
 ### 🏆 Highlight
 
-- National champion × 2 — 2025 China Robot Competition & RoboCup China, main and special competitions; second team lead.
+- China Robot Competition Champion.
 
 ### 📬 Contact
 
@@ -27,7 +27,7 @@ Open to conversations about motion planning, embodied intelligence, and building
 
 ### 🏆 荣誉
 
-- 2025 中国机器人大赛暨 RoboCup 机器人世界杯中国赛及专项赛：国家级冠军 × 2，第二负责人。
+- 中国机器人大赛冠军。
 
 ### 📬 联系方式
 
