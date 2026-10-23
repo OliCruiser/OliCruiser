@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Yu Zhang — Robotics &amp; Embodied Intelligence. From motion planning to robots in the real world." width="100%" />
-</p>
+# Yu Zhang / 张煜
 
 <p align="center">
   <a href="https://github.com/OliCruiser">GitHub</a> &nbsp; / &nbsp;
@@ -26,10 +24,10 @@ My experience spans motion planning, autonomous flight, and robot electronics. I
 
 ### A few milestones
 
-- **National champion × 2** — 2025 China Robot Competition & RoboCup China, main and special competitions; second team lead.
-- **National second prize** — 2024 special competition, China Robot Competition & RoboCup China; team lead.
-- **Beijing Jingdiao Special Scholarship** — 2025.
-- **University First-Class Scholarship** — 2025 & 2026.
+- 2025 中国机器人大赛暨 RoboCup 机器人世界杯中国赛及专项赛：国家级冠军 × 2，第二负责人。
+- National second prize — 2024 special competition, China Robot Competition & RoboCup China; team lead.
+- Beijing Jingdiao Special Scholarship — 2025.
+- University First-Class Scholarship — 2025 & 2026.
 
 <details>
 <summary>More awards & activities</summary>
